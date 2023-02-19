@@ -1,0 +1,286 @@
+.water-location-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.water-location-image {
+  width: 100px;
+  object-fit: cover;
+}
+.water-location-icon {
+  width: 24px;
+  height: 24px;
+}
+.water-location-icon02 {
+  width: 24px;
+  height: 24px;
+}
+.water-location-icon04 {
+  width: 24px;
+  height: 24px;
+}
+.water-location-icon06 {
+  width: 24px;
+  height: 24px;
+}
+.water-location-icon08 {
+  width: 24px;
+  height: 24px;
+}
+.water-location-icon10 {
+  width: 24px;
+  height: 24px;
+}
+.water-location-icon12 {
+  width: 24px;
+  height: 24px;
+}
+.water-location-icon14 {
+  width: 24px;
+  height: 24px;
+}
+.water-location-icon16 {
+  width: 24px;
+  height: 24px;
+}
+.water-location-navlink {
+  display: contents;
+}
+.water-location-image1 {
+  width: 100px;
+  object-fit: cover;
+  text-decoration: none;
+}
+.water-location-image2 {
+  width: 100px;
+  object-fit: cover;
+}
+.water-location-icon18 {
+  width: 24px;
+  height: 24px;
+}
+.water-location-icon20 {
+  width: 24px;
+  height: 24px;
+}
+.water-location-navlink1 {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+.water-location-icon22 {
+  width: 24px;
+  height: 24px;
+}
+.water-location-button {
+  display: flex;
+  flex-direction: row;
+}
+.water-location-icon24 {
+  width: 24px;
+  height: 24px;
+}
+.water-location-icon26 {
+  width: 24px;
+  height: 24px;
+}
+@media(max-width: 467px) {
+  .water-location-container {
+    background-color: var(--dl-color-grays-white100);
+  }
+  .water-location-image {
+    top: 284px;
+    left: -1px;
+    width: 479px;
+    height: 380px;
+    position: absolute;
+  }
+  .water-location-icon {
+    top: 318px;
+    fill: #e90808;
+    left: 201px;
+    width: 51px;
+    height: 39px;
+    position: absolute;
+  }
+  .water-location-icon02 {
+    top: 814px;
+    fill: #e90808;
+    left: 21px;
+    width: 51px;
+    height: 39px;
+    position: absolute;
+  }
+  .water-location-icon04 {
+    top: 563px;
+    fill: #09f538;
+    left: 76px;
+    width: 51px;
+    height: 39px;
+    position: absolute;
+  }
+  .water-location-icon06 {
+    top: 717px;
+    fill: #09f538;
+    left: 20px;
+    width: 51px;
+    height: 39px;
+    position: absolute;
+  }
+  .water-location-icon08 {
+    top: 360px;
+    fill: #09f538;
+    left: 35px;
+    width: 51px;
+    height: 39px;
+    position: absolute;
+  }
+  .water-location-icon10 {
+    top: 514px;
+    fill: #e4e529;
+    right: 37px;
+    width: 51px;
+    height: 39px;
+    position: absolute;
+  }
+  .water-location-icon12 {
+    top: 764px;
+    fill: #e4e529;
+    left: 21px;
+    width: 51px;
+    height: 39px;
+    position: absolute;
+  }
+  .water-location-text {
+    top: 300px;
+    left: 219px;
+    position: absolute;
+  }
+  .water-location-text1 {
+    top: 494px;
+    right: 51px;
+    position: absolute;
+  }
+  .water-location-text2 {
+    top: 60px;
+    left: 128px;
+    color: #000000;
+    position: absolute;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+  }
+  .water-location-icon14 {
+    top: 325px;
+    left: 215px;
+    position: absolute;
+  }
+  .water-location-icon16 {
+    top: 368px;
+    left: 48px;
+    position: absolute;
+  }
+  .water-location-text3 {
+    top: 727px;
+    left: 84px;
+    position: absolute;
+  }
+  .water-location-text4 {
+    top: 688px;
+    left: 25px;
+    position: absolute;
+  }
+  .water-location-text5 {
+    top: 826px;
+    left: 84px;
+    position: absolute;
+  }
+  .water-location-text6 {
+    top: 775px;
+    left: 86px;
+    position: absolute;
+  }
+  .water-location-text7 {
+    top: 148px;
+    left: 36px;
+    position: absolute;
+  }
+  .water-location-image1 {
+    top: 10px;
+    right: 10px;
+    width: 60px;
+    position: absolute;
+  }
+  .water-location-image2 {
+    top: 33px;
+    left: 31px;
+    width: 83px;
+    height: 81px;
+    position: absolute;
+  }
+  .water-location-icon18 {
+    top: 521px;
+    right: 50px;
+    position: absolute;
+  }
+  .water-location-icon20 {
+    top: 571px;
+    left: 90px;
+    position: absolute;
+  }
+  .water-location-navlink1 {
+    left: 22px;
+    width: 134px;
+    bottom: 16px;
+    height: 62px;
+    position: absolute;
+    background-color: #9ceaef;
+  }
+  .water-location-icon22 {
+    width: 47px;
+    height: 32px;
+  }
+  .water-location-text8 {
+    font-size: 22px;
+  }
+  .water-location-button {
+    top: 182px;
+    left: 18px;
+    width: 424px;
+    height: 62px;
+    opacity: 0.75;
+    position: absolute;
+    background-color: #eaf1f1;
+  }
+  .water-location-icon24 {
+    top: -32px;
+    right: -24px;
+    width: 47px;
+    bottom: -142px;
+    height: 32px;
+    display: none;
+    position: absolute;
+  }
+  .water-location-icon26 {
+    top: 195px;
+    fill: #463e3e;
+    left: 38px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+  }
+  .water-location-textinput {
+    top: 196px;
+    left: 73px;
+    width: 341px;
+    height: 35px;
+    position: absolute;
+    border-color: #64b6ac;
+    border-width: 0px;
+    background-color: #9ceaef;
+  }
+}

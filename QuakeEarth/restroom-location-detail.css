@@ -1,0 +1,394 @@
+.restroom-location-detail-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.restroom-location-detail-image {
+  width: 100px;
+  object-fit: cover;
+}
+.restroom-location-detail-buy-plants {
+  width: 393px;
+  height: 852px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.restroom-location-detail-vector {
+  top: 26px;
+  left: 22px;
+  width: 21px;
+  height: 20px;
+  position: absolute;
+}
+.restroom-location-detail-text {
+  top: 560px;
+  left: 19px;
+  color: rgba(0, 0, 0, 1);
+  width: 355px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.restroom-location-detail-line2 {
+  top: 539px;
+  left: 19px;
+  width: 352px;
+  height: 0px;
+  position: absolute;
+}
+.restroom-location-detail-text08 {
+  top: 500px;
+  left: 78px;
+  color: rgba(0, 0, 0, 1);
+  width: 202px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.restroom-location-detail-image1 {
+  width: 100px;
+  object-fit: cover;
+}
+.restroom-location-detail-image2 {
+  width: 100px;
+  object-fit: cover;
+}
+.restroom-location-detail-container1 {
+  flex: 0 0 auto;
+  width: 473px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.restroom-location-detail-container2 {
+  flex: 0 0 auto;
+  width: 473px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.restroom-location-detail-container3 {
+  flex: 0 0 auto;
+  width: 473px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.restroom-location-detail-container4 {
+  flex: 0 0 auto;
+  width: 473px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.restroom-location-detail-container5 {
+  flex: 0 0 auto;
+  width: 473px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.restroom-location-detail-container6 {
+  flex: 0 0 auto;
+  width: 473px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.restroom-location-detail-container7 {
+  flex: 0 0 auto;
+  width: 473px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.restroom-location-detail-image3 {
+  width: 100px;
+  object-fit: cover;
+}
+.restroom-location-detail-container8 {
+  width: 100px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 391px;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/maps1-400h.jpg");
+  background-position: center;
+}
+.restroom-location-detail-icon {
+  width: 24px;
+  height: 24px;
+}
+.restroom-location-detail-image4 {
+  width: 100px;
+  object-fit: cover;
+}
+.restroom-location-detail-image5 {
+  width: 100px;
+  object-fit: cover;
+}
+.restroom-location-detail-image6 {
+  width: 100px;
+  object-fit: cover;
+}
+.restroom-location-detail-navlink {
+  display: contents;
+}
+.restroom-location-detail-image7 {
+  width: 100px;
+  object-fit: cover;
+  text-decoration: none;
+}
+.restroom-location-detail-link {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+.restroom-location-detail-icon02 {
+  width: 24px;
+  height: 24px;
+}
+.restroom-location-detail-icon04 {
+  width: 24px;
+  height: 24px;
+}
+.restroom-location-detail-image8 {
+  width: 100px;
+  object-fit: cover;
+}
+.restroom-location-detail-icon06 {
+  width: 24px;
+  height: 24px;
+}
+@media(max-width: 467px) {
+  .restroom-location-detail-image {
+    top: 116px;
+    left: 54px;
+    width: 383px;
+    height: 341px;
+    position: absolute;
+    margin-right: 0px;
+  }
+  .restroom-location-detail-buy-plants {
+    width: 446px;
+  }
+  .restroom-location-detail-vector {
+    top: 14px;
+    left: 46px;
+  }
+  .restroom-location-detail-text {
+    top: 533px;
+    left: 69px;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .restroom-location-detail-text01 {
+    font-weight: 700;
+  }
+  .restroom-location-detail-text03 {
+    font-style: normal;
+    font-weight: 400;
+  }
+  .restroom-location-detail-text04 {
+    font-style: normal;
+    font-weight: 500;
+  }
+  .restroom-location-detail-text08 {
+    top: 450px;
+    left: 115px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .restroom-location-detail-image1 {
+    left: 3px;
+    width: 82px;
+    bottom: 119px;
+    height: 91px;
+    position: absolute;
+  }
+  .restroom-location-detail-image2 {
+    top: 0px;
+    left: -63px;
+    position: absolute;
+  }
+  .restroom-location-detail-container1 {
+    position: relative;
+  }
+  .restroom-location-detail-container2 {
+    position: relative;
+  }
+  .restroom-location-detail-container6 {
+    position: relative;
+  }
+  .restroom-location-detail-container7 {
+    position: relative;
+  }
+  .restroom-location-detail-image3 {
+    left: 32px;
+    width: 35px;
+    bottom: -635px;
+    height: 36px;
+    position: absolute;
+    padding-bottom: 0px;
+  }
+  .restroom-location-detail-container8 {
+    width: 100%;
+    height: 391px;
+    position: relative;
+  }
+  .restroom-location-detail-icon {
+    top: 160px;
+    fill: #09f538;
+    left: 228px;
+    width: 93px;
+    height: 83px;
+    position: absolute;
+  }
+  .restroom-location-detail-image4 {
+    left: 38px;
+    width: 85px;
+    bottom: -113px;
+    height: 89px;
+    position: absolute;
+  }
+  .restroom-location-detail-image5 {
+    left: 29px;
+    width: 85px;
+    bottom: -112px;
+    height: 89px;
+    position: absolute;
+  }
+  .restroom-location-detail-text09 {
+    top: 676px;
+    left: 69px;
+    position: absolute;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .restroom-location-detail-text10 {
+    top: 32px;
+    left: 27px;
+    position: absolute;
+    font-size: 20px;
+  }
+  .restroom-location-detail-image6 {
+    top: 600px;
+    left: 28px;
+    width: 37px;
+    height: 43px;
+    position: absolute;
+    padding-top: 0px;
+  }
+  .restroom-location-detail-image7 {
+    top: 10px;
+    right: 10px;
+    width: 60px;
+    position: absolute;
+  }
+  .restroom-location-detail-text11 {
+    top: 685px;
+    left: 82px;
+    position: absolute;
+  }
+  .restroom-location-detail-text12 {
+    font-style: normal;
+    font-weight: 700;
+  }
+  .restroom-location-detail-link {
+    left: 66px;
+    color: var(--dl-color-grays-black100);
+    width: 350px;
+    bottom: 94px;
+    height: 80px;
+    position: absolute;
+    background-color: #9ceaefac;
+  }
+  .restroom-location-detail-icon02 {
+    top: 14px;
+    left: 4px;
+    width: 47px;
+    height: 32px;
+    display: none;
+    position: absolute;
+  }
+  .restroom-location-detail-text14 {
+    top: 20px;
+    left: 66px;
+    color: var(--dl-color-grays-black100);
+    position: absolute;
+    font-size: 30px;
+    font-style: inherit;
+    font-weight: 400;
+  }
+  .restroom-location-detail-icon04 {
+    top: 188px;
+    fill: #463e3e;
+    left: 33px;
+    width: 30px;
+    height: 48px;
+    position: absolute;
+    padding-bottom: 111px;
+  }
+  .restroom-location-detail-image8 {
+    top: 486px;
+    left: 13px;
+    position: absolute;
+  }
+  .restroom-location-detail-icon06 {
+    top: 259px;
+    left: 263px;
+    width: 46px;
+    bottom: 62px;
+    height: 37px;
+    position: absolute;
+  }
+}

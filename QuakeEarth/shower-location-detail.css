@@ -1,0 +1,356 @@
+.shower-location-detail-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.shower-location-detail-image {
+  width: 100px;
+  object-fit: cover;
+}
+.shower-location-detail-buy-plants {
+  width: 393px;
+  height: 852px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.shower-location-detail-text {
+  top: 560px;
+  left: 19px;
+  color: rgba(0, 0, 0, 1);
+  width: 355px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.shower-location-detail-line2 {
+  top: 539px;
+  left: 19px;
+  width: 352px;
+  height: 0px;
+  position: absolute;
+}
+.shower-location-detail-text05 {
+  top: 500px;
+  left: 78px;
+  color: rgba(0, 0, 0, 1);
+  width: 202px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.shower-location-detail-container1 {
+  flex: 0 0 auto;
+  width: 473px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.shower-location-detail-container2 {
+  flex: 0 0 auto;
+  width: 473px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.shower-location-detail-image1 {
+  width: 100px;
+  object-fit: cover;
+}
+.shower-location-detail-icon {
+  width: 24px;
+  height: 24px;
+}
+.shower-location-detail-image2 {
+  width: 100px;
+  object-fit: cover;
+}
+.shower-location-detail-image3 {
+  width: 100px;
+  object-fit: cover;
+}
+.shower-location-detail-image4 {
+  width: 100px;
+  object-fit: cover;
+}
+.shower-location-detail-image5 {
+  width: 100px;
+  object-fit: cover;
+}
+.shower-location-detail-icon02 {
+  width: 24px;
+  height: 24px;
+}
+.shower-location-detail-icon04 {
+  width: 24px;
+  height: 24px;
+}
+.shower-location-detail-icon06 {
+  width: 24px;
+  height: 24px;
+}
+.shower-location-detail-image6 {
+  width: 100px;
+  object-fit: cover;
+}
+.shower-location-detail-navlink {
+  display: contents;
+}
+.shower-location-detail-image7 {
+  width: 100px;
+  object-fit: cover;
+  text-decoration: none;
+}
+.shower-location-detail-icon08 {
+  width: 24px;
+  height: 24px;
+}
+.shower-location-detail-link {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+.shower-location-detail-icon10 {
+  width: 24px;
+  height: 24px;
+}
+@media(max-width: 467px) {
+  .shower-location-detail-image {
+    top: 116px;
+    left: 54px;
+    width: 383px;
+    height: 341px;
+    position: absolute;
+    margin-right: 0px;
+  }
+  .shower-location-detail-buy-plants {
+    width: 446px;
+  }
+  .shower-location-detail-text {
+    top: 527px;
+    left: 67px;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .shower-location-detail-text01 {
+    font-style: normal;
+    font-weight: 500;
+  }
+  .shower-location-detail-text02 {
+    font-weight: 400;
+  }
+  .shower-location-detail-text03 {
+    font-weight: 400;
+  }
+  .shower-location-detail-text05 {
+    top: 448px;
+    left: 96px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .shower-location-detail-container1 {
+    position: relative;
+  }
+  .shower-location-detail-container2 {
+    position: relative;
+  }
+  .shower-location-detail-image1 {
+    top: 34px;
+    left: -7px;
+    width: 467px;
+    height: 363px;
+    position: absolute;
+  }
+  .shower-location-detail-icon {
+    fill: #09f538;
+    left: 282px;
+    width: 74px;
+    bottom: -191px;
+    height: 71px;
+    position: absolute;
+  }
+  .shower-location-detail-image2 {
+    left: 295px;
+    width: 40px;
+    bottom: -172px;
+    height: 40px;
+    position: absolute;
+    margin-right: 2px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+  }
+  .shower-location-detail-image3 {
+    left: 23px;
+    width: 73px;
+    bottom: -494px;
+    height: 71px;
+    position: absolute;
+    padding-bottom: 0px;
+  }
+  .shower-location-detail-image4 {
+    left: 35px;
+    width: 35px;
+    bottom: -644px;
+    height: 35px;
+    position: absolute;
+    padding-bottom: 0px;
+  }
+  .shower-location-detail-image5 {
+    top: 672px;
+    left: 18px;
+    width: 46px;
+    height: 48px;
+    position: absolute;
+  }
+  .shower-location-detail-icon02 {
+    fill: #09f538;
+    left: 308px;
+    width: 62px;
+    bottom: -516px;
+    height: 49px;
+    position: absolute;
+    padding-bottom: 0px;
+  }
+  .shower-location-detail-icon04 {
+    fill: #09f538;
+    left: 330px;
+    width: 62px;
+    bottom: -495px;
+    height: 49px;
+    position: absolute;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .shower-location-detail-icon06 {
+    fill: #09f538;
+    left: 330px;
+    width: 62px;
+    bottom: -473px;
+    height: 49px;
+    position: absolute;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .shower-location-detail-text06 {
+    top: 17px;
+    left: 41px;
+    color: var(--dl-color-default-white);
+    position: absolute;
+    font-size: 30px;
+    font-style: inherit;
+    font-weight: 400;
+  }
+  .shower-location-detail-text07 {
+    top: 690px;
+    left: 78px;
+    position: absolute;
+  }
+  .shower-location-detail-text08 {
+    top: 761px;
+    left: 85px;
+    position: absolute;
+  }
+  .shower-location-detail-text09 {
+    top: 45px;
+    left: 25px;
+    position: absolute;
+    font-size: 20px;
+  }
+  .shower-location-detail-image6 {
+    top: 595px;
+    left: 32px;
+    width: 37px;
+    height: 43px;
+    position: absolute;
+    padding-top: 0px;
+  }
+  .shower-location-detail-image7 {
+    top: 10px;
+    right: 10px;
+    width: 60px;
+    position: absolute;
+  }
+  .shower-location-detail-icon08 {
+    fill: #09f538;
+    left: 316px;
+    width: 62px;
+    bottom: -504px;
+    height: 49px;
+    position: absolute;
+    padding-bottom: 0px;
+  }
+  .shower-location-detail-text10 {
+    top: 17px;
+    left: 41px;
+    color: var(--dl-color-default-white);
+    position: absolute;
+    font-size: 30px;
+    font-style: inherit;
+    font-weight: 400;
+  }
+  .shower-location-detail-link {
+    left: 59px;
+    width: 350px;
+    bottom: 87px;
+    height: 80px;
+    position: absolute;
+    background-color: #9ceaef;
+  }
+  .shower-location-detail-icon10 {
+    top: 14px;
+    left: 4px;
+    width: 47px;
+    height: 32px;
+    display: none;
+    position: absolute;
+  }
+  .shower-location-detail-text11 {
+    top: 23px;
+    left: 68px;
+    color: var(--dl-color-grays-black100);
+    position: absolute;
+    font-size: 30px;
+    font-style: inherit;
+    font-weight: 400;
+  }
+}
